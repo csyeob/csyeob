@@ -1,3 +1,4 @@
+### Hi there! 😄
 #### Thinking about what kind of developer to be
 
 ![csyeob's github stats](https://github-readme-stats.vercel.app/api?username=csyeob&show_icons=true)
