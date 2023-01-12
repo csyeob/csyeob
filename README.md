@@ -2,7 +2,7 @@
 #### Thinking about what kind of developer to be
 <!--![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&width=700&section=header&text=Yeob's%20GitHub&fontSize=90)
 -->
-[![csyeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=csyeob)](https://github.com/csyeob/github-readme-stats)
+
 <!--
 **csyeob/csyeob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
