@@ -2,7 +2,7 @@
 
 <div align="center">
   🍀<strong> My Profile </strong>🍀 <br>
-Want to be Cloud Engineer Solution Architecture / DevOps 
+Want to be Cloud Engineer Solution Architecture / DevOps / Network  
 </div>
  
  #
